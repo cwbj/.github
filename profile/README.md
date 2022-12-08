@@ -1,25 +1,19 @@
-# Welcome to CWB Community!
+# Welcome to CWB!
 
 ![](https://raw.githubusercontent.com)
 
 <div align="left">
-  <a href="https://twitter.com/vanzasetia" target="_blank"><img src="https://img.shields.io/twitter/follow/vanzasetia?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
-  <a href="https://www.frontendmentor.io/profile/vanzasetia" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Vanza Setia-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a> 
-  <a href="https://linktr.ee/vanzasetia" target="_blank"><img src="https://img.shields.io/badge/Linktree-Vanza Setia-brightgreen?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
-  <img src="https://img.shields.io/github/license/vanzasetia/vanzasetia?color=green&style=for-the-badge" alt="GitHub">
+  <a href="https://twitter.com/cwbj" target="_blank"><img src="https://img.shields.io/twitter/follow/vanzasetia?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
+  <a href="https://linktr.ee/cwbj" target="_blank"><img src="https://img.shields.io/badge/Linktree-Vanza Setia-brightgreen?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
+  <img src="https://img.shields.io/github/license/cwbj/vanzasetia?color=green&style=for-the-badge" alt="GitHub">
 </div>
 
 ## About us :sunglasses:
 
-I have been learning front-end web development for more than two years. I specialized in creating accessible websites. In the last year alone, I have completed more than 20 projects in Frontend Mentor. I also helped hundreds of people in the Frontend Mentor community by critically analyzing their code and giving them feedback.
+This Community created for storing Project from the student and the member of the CWB Community. And also for storing tips and tricks to study and learn about technology and developments. There's also some standard, how to, and rules to help the members understand using the technology.
+**We recommend looking through the pinned repositories and some list below which showcase the projects have been created and under progress.**
 
-My strength is my ability to create accessible websites. I pride myself on my reputation in the community by creating responsive and accessible websites. Not only that, every time I have done creating the website, I spare my time to write `README` to explain the process of how I created the website.
-
-**I recommend looking through the pinned repositories which showcase my current skills.**
-
-I spend my free time playing [sudoku](https://en.wikipedia.org/wiki/Sudoku). :wink:
-
-## Technical Skills & Tools
+## Rule Standard & Tools
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/html) - The building block of the web. No website can survive without this.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - The styling language for the web.
@@ -30,7 +24,7 @@ I spend my free time playing [sudoku](https://en.wikipedia.org/wiki/Sudoku). :wi
 - [Powershell](https://learn.microsoft.com/en-us/powershell/) - I use this to work with Git and to install NPM packages.
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor. I love this tool. It has everything that I need to write code.
 
-## Blog Posts :memo:
+## Blog Posts & Tips :memo:
 
 <!-- BLOG-POST-LIST:START -->
 
