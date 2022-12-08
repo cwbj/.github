@@ -14,7 +14,7 @@ This Community created for storing Project from the student and the member of th
 
 **We recommend looking through the pinned repositories and some list below which showcase the projects have been created and under progress.**
 
-## Rule Standard & Tools
+## Tools
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/html) - The building block of the web. No website can survive without this.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - The styling language for the web.
