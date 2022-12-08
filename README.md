@@ -1,1 +1,1 @@
-## This is a readme file for the oraganization
+## This is a readme file for the organization
