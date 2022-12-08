@@ -3,14 +3,15 @@
 ![](https://raw.githubusercontent.com)
 
 <div align="left">
-  <a href="https://twitter.com/cwbj" target="_blank"><img src="https://img.shields.io/twitter/follow/cwbj?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
-  <a href="https://linktr.ee/cwbj" target="_blank"><img src="https://img.shields.io/badge/Linktree-cwbj-brightgreen?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
+  <a href="https://twitter.com/cwb" target="_blank"><img src="https://img.shields.io/twitter/follow/cwb?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
+  <a href="https://linktr.ee/cwb" target="_blank"><img src="https://img.shields.io/badge/Linktree-cwb-brightgreen?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
   <img src="https://img.shields.io/github/license/cwbj/vanzasetia?color=green&style=for-the-badge" alt="GitHub">
 </div>
 
 ## About us :sunglasses:
 
 This Community created for storing Project from the student and the member of the CWB Community. And also for storing tips and tricks to study and learn about technology and developments. There's also some standard, how to, and rules to help the members understand using the technology.
+
 **We recommend looking through the pinned repositories and some list below which showcase the projects have been created and under progress.**
 
 ## Rule Standard & Tools
