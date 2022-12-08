@@ -3,8 +3,8 @@
 ![](https://raw.githubusercontent.com)
 
 <div align="left">
-  <a href="https://twitter.com/cwb" target="_blank"><img src="https://img.shields.io/twitter/follow/cwb?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
-  <a href="https://linktr.ee/cwb" target="_blank"><img src="https://img.shields.io/badge/Linktree-cwb-brightgreen?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
+  <a href="https://twitter.com/cwb_japan" target="_blank"><img src="https://img.shields.io/twitter/follow/cwb?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
+  <a href="https://linktr.ee/cwb_japan" target="_blank"><img src="https://img.shields.io/badge/Linktree-cwb-brightgreen?style=for-the-badge&logo=linktree" alt="Linktree" /></a>
   <img src="https://img.shields.io/github/license/cwbj/vanzasetia?color=green&style=for-the-badge" alt="GitHub">
 </div>
 
